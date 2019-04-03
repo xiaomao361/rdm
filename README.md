@@ -7,4 +7,4 @@
 
 直接下载就好了
 
-[下载地址]()
+[下载地址](https://github.com/xiaomao361/rdm/releases/tag/v0.9.9)
